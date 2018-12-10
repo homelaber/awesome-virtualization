@@ -2,7 +2,7 @@
 
 <h1 align="center">
 	<br>
-	<img width="400" src="https://rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
+	<img width="400" src="https://cdn.jsdelivr.net/gh/sindresorhus/awesome@master/media/logo.svg" alt="awesome">
 	<br>
 	<br>
 	<br>
